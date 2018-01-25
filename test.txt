@@ -1,2 +1,4 @@
+:i
 hello world
-
+second version of the file to merge
+!
