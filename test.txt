@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 :i
 hello world
 second version of the file to merge
 !
+
+new test for error in merge
+>>>>>>> 6551abe234fbfbfda9f2442fb1cb2f67dffdefe3
